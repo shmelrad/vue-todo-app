@@ -1,0 +1,156 @@
+{
+  "lists": [
+    {
+      "id": "9029702d-c279-4c92-84a8-cda67eb56054",
+      "name": "Идеи",
+      "todos": [
+        {
+          "id": "b0819436-7a8c-4bba-8943-7d1f3a981494",
+          "labels": [
+            {
+              "id": "5233df93-c98f-4293-b123-4c06bb7d7538",
+              "name": "Red label",
+              "color": "#ff0000"
+            }
+          ],
+          "tasks": [],
+          "text": "Замечательная идея 1",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "14f8ee15-5fcb-4336-baa4-a02ad5e7ad8b",
+      "name": "Надо сделать!",
+      "todos": [
+        {
+          "id": "ad1be816-f4ce-48a8-9c88-9359b0259cee",
+          "labels": [],
+          "tasks": [],
+          "text": "Замечательная идея 2"
+        },
+        {
+          "id": "8eb2ea56-9301-4d20-bdcb-2b5587f271b3",
+          "labels": [
+            {
+              "id": "dfb811f6-851c-43e6-b641-b4f3bbf7fdcc",
+              "name": "Cool label",
+              "color": "#000000"
+            },
+            {
+              "id": "5233df93-c98f-4293-b123-4c06bb7d7538",
+              "name": "Red label",
+              "color": "#ff0000"
+            }
+          ],
+          "tasks": [
+            {
+              "text": "1 этап",
+              "done": false
+            },
+            {
+              "text": "lorem ipsum",
+              "done": true
+            }
+          ],
+          "text": "Замечательная идея 3",
+          "description": ""
+        },
+        {
+          "id": "959c86b0-2686-4f2e-96a2-a66708647030",
+          "labels": [],
+          "tasks": [
+            {
+              "text": "123",
+              "done": true
+            },
+            {
+              "text": "345",
+              "done": true
+            },
+            {
+              "text": "87867678hjghjg",
+              "done": true
+            }
+          ],
+          "text": "Замечательная идея 4",
+          "description": ""
+        },
+        {
+          "id": "e5142f13-fe46-4619-a6a6-c6a42736e9a0",
+          "labels": [
+            {
+              "id": "dfb811f6-851c-43e6-b641-b4f3bbf7fdcc",
+              "name": "Cool label",
+              "color": "#000000"
+            }
+          ],
+          "tasks": [],
+          "text": "Замечательная идея 5",
+          "description": ""
+        },
+        {
+          "id": "3b991f86-ef83-4cee-9666-cffc91d60c9f",
+          "labels": [],
+          "tasks": [],
+          "text": "Замечательная идея 6"
+        }
+      ]
+    },
+    {
+      "id": "e53fdd02-524f-450f-8444-82efe760449c",
+      "name": "Выполняю",
+      "todos": [
+        {
+          "id": "d29ee42b-4e1b-46b9-b039-3c36e25d7a21",
+          "labels": [
+            {
+              "id": "5233df93-c98f-4293-b123-4c06bb7d7538",
+              "name": "Red label",
+              "color": "#ff0000"
+            }
+          ],
+          "tasks": [],
+          "text": "Замечательная идея 7",
+          "description": ""
+        },
+        {
+          "id": "ed66dce4-e85f-4687-ac57-485b98d51d9c",
+          "labels": [],
+          "tasks": [],
+          "text": "Замечательная идея 8"
+        },
+        {
+          "id": "43717a87-d711-4fb0-a912-f88d19e494ab",
+          "labels": [
+            {
+              "id": "dfb811f6-851c-43e6-b641-b4f3bbf7fdcc",
+              "name": "Cool label",
+              "color": "#000000"
+            },
+            {
+              "id": "5233df93-c98f-4293-b123-4c06bb7d7538",
+              "name": "Red label",
+              "color": "#ff0000"
+            }
+          ],
+          "tasks": [],
+          "text": "Замечательная идея 9",
+          "description": ""
+        }
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "id": "dfb811f6-851c-43e6-b641-b4f3bbf7fdcc",
+      "name": "Cool label",
+      "color": "#000000"
+    },
+    {
+      "id": "5233df93-c98f-4293-b123-4c06bb7d7538",
+      "name": "Red label",
+      "color": "#ff0000"
+    }
+  ]
+}
