@@ -6,4 +6,7 @@ Simple todo app written in Vue.js that supports
 - todo subtasks
 - multiple todo lists
 ## How to run
-`npm start`
+```sh
+npm install
+npm start
+```
